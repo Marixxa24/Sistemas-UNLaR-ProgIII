@@ -51,6 +51,8 @@ Para compilar y ejecutar el sistema desde la terminal, situarse en la carpeta ra
 
 Bash
 mvn exec:java -Dexec.mainClass="unlar.edu.ar.Main"
+
+
 📊 Diagrama de Clases
 
 El diseño del sistema se basó en el siguiente diagrama UML:
