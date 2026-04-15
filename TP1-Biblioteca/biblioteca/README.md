@@ -3,6 +3,7 @@
 Este proyecto implementa un sistema de gestión bibliotecaria desarrollado para la cátedra de Programación III de la UNLaR. El objetivo es demostrar el uso de colecciones, excepciones personalizadas, recursividad y arquitectura de capas en Java.
 
 ====================Tecnologías Utilizadas====================
+
 Lenguaje: Java 21
 
 Gestor de Dependencias: Maven
